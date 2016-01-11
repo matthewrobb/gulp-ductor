@@ -1,0 +1,22 @@
+{
+  "name": "gulp-ductor",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewrobb/gulp-ductor.git"
+  },
+  "author": "Matthew Robb <mrobb.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewrobb/gulp-ductor/issues"
+  },
+  "homepage": "https://github.com/matthewrobb/gulp-ductor#readme",
+  "dependencies": {
+    "gulp-clone": "^1.0.0",
+    "gulp-filter": "^3.0.1",
+    "lazypipe": "^1.0.1"
+  }
+}
